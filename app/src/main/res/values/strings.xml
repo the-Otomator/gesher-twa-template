@@ -8,8 +8,8 @@
     <!-- Gesher: your API endpoint -->
     <string name="gesher_api_url">https://api.gesher.pro</string>
 
-    <!-- Gesher: Bearer token for your app (from Gesher dashboard) -->
-    <string name="gesher_api_key">YOUR_GESHER_API_KEY</string>
+    <!-- Gesher: app ID (public; used for SDK subscribe + analytics) -->
+    <string name="gesher_app_id">YOUR_APP_ID</string>
 
     <!-- TWA asset link host (must match launch_url domain) -->
     <string name="asset_statements" translatable="false">

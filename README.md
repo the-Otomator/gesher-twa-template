@@ -17,7 +17,7 @@ Edit `app/src/main/res/values/strings.xml`:
 
 - `launch_url` → your web app URL
 - `gesher_api_url` → https://api.gesher.pro (or your instance)
-- `gesher_api_key` → your Bearer token from the Gesher dashboard
+- `gesher_app_id` → your app ID from the Gesher dashboard
 - `asset_statements` → update domain to match `launch_url`
 
 Also set `applicationId` in `app/build.gradle.kts` to your package name, and use the same package when registering the Android app in Firebase.
